@@ -1,0 +1,14 @@
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\bin\Debug\C968-Kondrla.exe.config
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\bin\Debug\C968-Kondrla.exe
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\bin\Debug\C968-Kondrla.pdb
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968-Kondrla.csproj.AssemblyReference.cache
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968_Kondrla.MainForm.resources
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968_Kondrla.Properties.Resources.resources
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968-Kondrla.csproj.GenerateResource.cache
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968-Kondrla.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968-Kondrla.exe
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968-Kondrla.pdb
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968_Kondrla.AddPart.resources
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968_Kondrla.ModifyPart.resources
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968_Kondrla.AddProduct.resources
+C:\Users\Taylor\source\repos\C968-Kondrla\C968-Kondrla\obj\Debug\C968_Kondrla.ModifyProduct.resources
